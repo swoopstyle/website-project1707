@@ -1,0 +1,35 @@
+/* * CSS SELECTOR: APPLY TO ALL  */
+* {
+  color:brown;
+  font-family: 'REM', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  background-color: beige;
+  font-size: 20px;
+  /* font-size: 20px; */
+  /* text-align: center; */
+}
+
+
+h1 {
+  color:black;
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  color: black;
+} 
+
+.navbar {
+  text-align: right;
+  color: beige;
+  border:black;
+  font-size: 25px;
+  padding: 0px;
+  margin: auto;
+}
+
+#animal {
+  color: black;
+  
+}
